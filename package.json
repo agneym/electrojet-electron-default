@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/BoyWithSilverWings/create-electrojet#readme",
   "dependencies": {
-    "electrojet-scripts": "^0.0.8",
+    "electrojet-scripts": "^0.0.9",
     "electron": "^4.0.0",
     "electron-devtools-installer": "^2.2.4"
   },
