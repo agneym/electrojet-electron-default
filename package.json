@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "electrojet-scripts start",
-    "electron": "electron .",
     "build": "electrojet-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,7 +24,7 @@
   },
   "homepage": "https://github.com/BoyWithSilverWings/create-electrojet#readme",
   "dependencies": {
-    "electrojet-scripts": "0.0.6",
+    "electrojet-scripts": "^0.0.8",
     "electron": "^4.0.0",
     "electron-devtools-installer": "^2.2.4"
   },
