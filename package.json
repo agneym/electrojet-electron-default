@@ -1,30 +1,29 @@
 {
-  "name": "@electrojet/default",
+  "name": "electrojet-electron-default",
   "version": "0.0.1",
   "description": "Default structure for electron application",
   "main": "index.js",
   "scripts": {
-    "start": "electrojet-scripts start",
-    "build": "electrojet-scripts build",
+    "start": "electrojet-electron start",
+    "build": "electrojet-electron build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BoyWithSilverWings/create-electrojet.git"
+    "url": "git+https://github.com/BoyWithSilverWings/electrojet-default.git"
   },
   "keywords": [
     "electrojet",
-    "default",
+    "electrojet-cli",
     "electron"
   ],
   "author": "Boy with Silver Wings",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BoyWithSilverWings/create-electrojet/issues"
+    "url": "https://github.com/BoyWithSilverWings/electrojet-default/issues"
   },
-  "homepage": "https://github.com/BoyWithSilverWings/create-electrojet#readme",
   "dependencies": {
-    "electrojet-scripts": "^0.0.10",
+    "@electrojet/electron": "0.0.8",
     "electron": "^4.0.0",
     "electron-devtools-installer": "^2.2.4"
   },
