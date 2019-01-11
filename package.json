@@ -23,7 +23,7 @@
     "url": "https://github.com/BoyWithSilverWings/electrojet-default/issues"
   },
   "dependencies": {
-    "@electrojet/electron": "0.0.14",
+    "@electrojet/electron": "0.0.15",
     "electron": "^4.0.0",
     "electron-devtools-installer": "^2.2.4"
   },
