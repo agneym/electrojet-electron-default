@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@electrojet/electron": "0.0.15",
-    "electron": "^4.0.0",
+    "electron": "^7.2.4",
     "electron-devtools-installer": "^2.2.4"
   },
   "devDependencies": {
